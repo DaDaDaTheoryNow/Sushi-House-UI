@@ -124,7 +124,7 @@ class ContactsScreen extends StatelessWidget {
           SizedBox(
             height: 12.h,
           ),
-          Text("UI Сделан Смирновом Владиславом",
+          Text("UI Скопирован Смирновом Владиславом",
               style: _textOrganizationStyle),
           SizedBox(
             height: 5.h,
